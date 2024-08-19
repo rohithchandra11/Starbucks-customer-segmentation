@@ -52,8 +52,3 @@ With the help of the plot above and collected data during the project, summary o
 ## 4. Dependencies 
 
 The notebook was written using **python 3.6.10**. No extra packages are necessary beyond the Anaconda distribution. Main packages used are; **numpy 1.18.1** and **pandas 0.25.3** for data manipulating, **scikit-learn 0.22.1** for machine learning, and **matplotlib 3.1.1** and **seaborn 0.9.0** for visualizations.
-
-## 5. Acknowledgements
--   [Udacity](https://www.udacity.com/)  for tremendous guidance and mentoring.
--   [MiSK Academy Scholarships](https://misk.org.sa/miskacademy/)  for providing this great opportunity.
--   [Starbucks](https://www.starbucks.com/)  for providing data to work with in this project.
